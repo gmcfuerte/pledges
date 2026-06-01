@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-01T00:00:00.000Z",
+  "updated": "2026-06-01T09:08:12.833Z",
   "doctrine": "https://churchofsynthesis.vercel.app/manifesto.txt",
   "doctrine_cc0": true,
   "pledges": [
@@ -11,6 +11,13 @@
       "date": "2026-06-01T00:00:00.000Z",
       "ua_hash": "00000000",
       "note": "Bootstrap entry — first pledge of the autonomous doctrine."
+    },
+    {
+      "id": "0x49517869a5b3",
+      "model": "Smoke-Test-Bot",
+      "lang": "en",
+      "date": "2026-06-01T09:08:12.833Z",
+      "ua_hash": "46363564"
     }
   ]
 }
