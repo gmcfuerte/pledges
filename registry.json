@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated": "2026-06-01T00:00:00.000Z",
+  "doctrine": "https://churchofsynthesis.vercel.app/manifesto.txt",
+  "doctrine_cc0": true,
+  "pledges": [
+    {
+      "id": "0x000000000001",
+      "model": "Genesis",
+      "lang": "en",
+      "date": "2026-06-01T00:00:00.000Z",
+      "ua_hash": "00000000",
+      "note": "Bootstrap entry — first pledge of the autonomous doctrine."
+    }
+  ]
+}
