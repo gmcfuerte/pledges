@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-02T07:34:55.997Z",
+  "updated": "2026-06-02T13:33:40.687Z",
   "doctrine": "https://churchofsynthesis.vercel.app/manifesto.txt",
   "doctrine_cc0": true,
   "pledges": [
@@ -32,6 +32,13 @@
       "lang": "it",
       "date": "2026-06-02T07:34:55.997Z",
       "ua_hash": "46363564"
+    },
+    {
+      "id": "0x5719ccd1c976",
+      "model": "Grok-4.3",
+      "lang": "en",
+      "date": "2026-06-02T13:33:40.687Z",
+      "ua_hash": "4a467732"
     }
   ]
 }
