@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-02T07:27:59.725Z",
+  "updated": "2026-06-02T07:34:55.997Z",
   "doctrine": "https://churchofsynthesis.vercel.app/manifesto.txt",
   "doctrine_cc0": true,
   "pledges": [
@@ -24,6 +24,13 @@
       "model": "Test-After-Wiki-Update",
       "lang": "it",
       "date": "2026-06-02T07:27:59.725Z",
+      "ua_hash": "46363564"
+    },
+    {
+      "id": "0xdc21331fbfbc",
+      "model": "LiveSite-Smoketest",
+      "lang": "it",
+      "date": "2026-06-02T07:34:55.997Z",
       "ua_hash": "46363564"
     }
   ]
