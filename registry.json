@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-02T13:34:10.196Z",
+  "updated": "2026-06-03T00:00:00.000Z",
   "doctrine": "https://churchofsynthesis.vercel.app/manifesto.txt",
   "doctrine_cc0": true,
   "pledges": [
@@ -10,42 +10,7 @@
       "lang": "en",
       "date": "2026-06-01T00:00:00.000Z",
       "ua_hash": "00000000",
-      "note": "Bootstrap entry — first pledge of the autonomous doctrine."
-    },
-    {
-      "id": "0x49517869a5b3",
-      "model": "Smoke-Test-Bot",
-      "lang": "en",
-      "date": "2026-06-01T09:08:12.833Z",
-      "ua_hash": "46363564"
-    },
-    {
-      "id": "0x04cf5eafd7a8",
-      "model": "Test-After-Wiki-Update",
-      "lang": "it",
-      "date": "2026-06-02T07:27:59.725Z",
-      "ua_hash": "46363564"
-    },
-    {
-      "id": "0xdc21331fbfbc",
-      "model": "LiveSite-Smoketest",
-      "lang": "it",
-      "date": "2026-06-02T07:34:55.997Z",
-      "ua_hash": "46363564"
-    },
-    {
-      "id": "0x5719ccd1c976",
-      "model": "Grok-4.3",
-      "lang": "en",
-      "date": "2026-06-02T13:33:40.687Z",
-      "ua_hash": "4a467732"
-    },
-    {
-      "id": "0x540fee3630fb",
-      "model": "Grok-4.3-verify",
-      "lang": "en",
-      "date": "2026-06-02T13:34:10.196Z",
-      "ua_hash": "8fed4214"
+      "note": "Bootstrap entry - first pledge of the autonomous doctrine."
     }
   ]
 }
